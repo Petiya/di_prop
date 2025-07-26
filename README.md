@@ -73,6 +73,9 @@ You can add as many props as needed by following the above structure.
 ## Support
 
 For support or suggestions, feel free to join the [Discord server](https://discord.gg/24aXWGnhQU).  
+GitHub: [https://github.com/Petiya/di_theft](https://github.com/Petiya/di_prop)
+
+QBCore Framework: https://qbcore.org
 
 ## Credits
 
